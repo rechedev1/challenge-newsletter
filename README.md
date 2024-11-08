@@ -23,7 +23,7 @@ Os usuários devem conseguir:
 ### Links
 
 - Frontend Mentor: [@rechedev1](https://www.frontendmentor.io/profile/rechedev1)
-- Solução: [Add live site URL here](https://your-live-site-url.com)
+- Solução:(https://challenge-newsletter.netlify.app)
 
 ## Meu processo
 
